@@ -3,6 +3,7 @@ h1 {
   padding-top: 50px;
   text-align: center;
   font-size: 100px;
+  font-family: canvas-sans;
 }
 
 html, body {
@@ -13,8 +14,8 @@ html, body {
 }
 
 .container {
-  width: 100px;
-  height: 300px;
+  width: 200px;
+  height: 600px;
   position: absolute;
   left: 0;
   right: 0;
